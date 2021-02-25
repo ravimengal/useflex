@@ -1,1 +1,1 @@
-learing flex
+learning flex
